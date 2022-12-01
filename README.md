@@ -1,7 +1,7 @@
 # MAGD-150
 
 ## Anderson.zip
-Contains a progrma that displays a digital image of a cityscape. 
+Contains a program that displays a digital image of a cityscape. 
 
 ## Anderson-1.zip
 Contains a program that displays an outer space scene. It includes multiple planets and a UFO.
